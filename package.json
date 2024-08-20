@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://azeez92.github.io/letes-insurance",
+  "homepage": "https://azeez92.github.io/letes-insurance/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
